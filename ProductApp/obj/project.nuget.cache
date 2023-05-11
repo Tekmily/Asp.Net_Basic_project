@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8hxCbVPCX6l2tUlmpFWQEQurWP6m9KQiLmEpKTEE39zzTxn+Fko+qaCAsysOX0g2j0na9ZJmNHPCoa0xV05Qug==",
+  "success": true,
+  "projectFilePath": "D:\\Geliştirmekte_Oldugun_Projeler\\Microsoft_Uygulamalar\\basic\\ProductApp\\ProductApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tekmil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tekmil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tekmil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tekmil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tekmil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Tekmil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
